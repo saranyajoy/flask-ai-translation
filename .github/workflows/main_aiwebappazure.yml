@@ -66,4 +66,4 @@ jobs:
         with:
           app-name: 'aiwebappazure'
           slot-name: 'Production'
-          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_3C21292972934716B3F17F6773A02077 }}
+          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_801B026AFA4F423482B6A64657509725 }}
